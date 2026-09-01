@@ -1,7 +1,7 @@
 ---
 entity_type: cosmology
 category: celestial_bodies
-tags: [stars, black_holes, cosmic_phenomena, energy, gravity]
+tags: [stars, black_holes, cosmic_phenomena, energy, gravity, matter]
 related:
   - lore/cosmology/formation_of_matter_and_energy.md
   - lore/cosmology/celestial_systems_and_planetary_formation.md
@@ -31,5 +31,5 @@ A black hole does not automatically consume every star. It absorbs matter and en
   - **Connection:** They are opposing counterparts born from opposing formation conditions and demonstrating opposing behavior. They do not exist to serve/stabilize one another.
 - **Rules of Interaction:** Black holes only consume matter/energy/stars that cross their event horizon; it is not automatic.
 - **Cross-References:**
-  - [Formation of Matter and Energy](formation_of_matter_and_energy.md): The prerequisite condition for their formation.
-  - [Celestial Systems and Planetary Formation](celestial_systems_and_planetary_formation.md): Environments that form around stars.
+  - [Formation of Matter and Energy](formation_of_matter_and_energy.md): The prerequisite condition for their formation (accumulation of matter/energy).
+  - [Celestial Systems and Planetary Formation](celestial_systems_and_planetary_formation.md): Environments that form around stars, providing further context on star roles.

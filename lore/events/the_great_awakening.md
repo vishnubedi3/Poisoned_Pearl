@@ -1,10 +1,11 @@
 ---
 entity_type: event
 category: cosmology
-tags: [origin, universe, the_great_awakening]
+tags: [origin, universe, the_great_awakening, unknowns]
 related:
   - lore/concepts/rules_of_the_universe.md
   - lore/cosmology/formation_of_matter_and_energy.md
+  - lore/cosmology/multiplicity_of_universes.md
 ---
 
 # The Great Awakening
@@ -28,3 +29,4 @@ The Great Awakening marked the beginning of the universe’s formation. Before i
 - **Cross-References:**
   - [Rules of the Universe](../concepts/rules_of_the_universe.md): Explains that an unknown cause does not mean an explanation doesn't exist.
   - [Formation of Matter and Energy](../cosmology/formation_of_matter_and_energy.md): Details what began occurring directly following the Great Awakening.
+  - [Multiplicity of Universes](../cosmology/multiplicity_of_universes.md): The Awakening formed "the universe," though multiple universes are known to exist.

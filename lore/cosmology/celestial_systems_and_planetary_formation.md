@@ -1,9 +1,10 @@
 ---
 entity_type: cosmology
 category: celestial_systems
-tags: [celestial_system, planets, stars, terrestrial, gaseous]
+tags: [celestial_system, planets, stars, terrestrial, gaseous, matter]
 related:
   - lore/cosmology/stars_and_black_holes.md
+  - lore/cosmology/formation_of_matter_and_energy.md
   - lore/cosmology/multiplicity_of_universes.md
 ---
 
@@ -29,4 +30,5 @@ A celestial system consists of a principal star and the celestial bodies that or
   3. **Terrestrial Bodies:** Formed later from remaining material, debris, collisions, and gravitational interactions.
 - **Cross-References:**
   - [Stars and Black Holes](stars_and_black_holes.md): The principal anchor (stars) for celestial systems.
-  - [Multiplicity of Universes](multiplicity_of_universes.md): Countless numbers of these systems exist.
+  - [Formation of Matter and Energy](formation_of_matter_and_energy.md): The origin of the "remaining gas, dust, and heavier elements" that form planetary environments.
+  - [Multiplicity of Universes](multiplicity_of_universes.md): Countless numbers of these systems exist within the universe.
