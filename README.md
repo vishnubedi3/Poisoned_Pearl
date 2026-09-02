@@ -18,4 +18,5 @@ All repository material strictly separates **Source Material** (the exact, unalt
 - [Formation of Matter and Energy](lore/cosmology/formation_of_matter_and_energy.md)
 - [Stars and Black Holes](lore/cosmology/stars_and_black_holes.md)
 - [Celestial Systems and Planetary Formation](lore/cosmology/celestial_systems_and_planetary_formation.md)
+- [Stellar Energy and Life](lore/cosmology/stellar_energy_and_life.md)
 - [Multiplicity of Universes](lore/cosmology/multiplicity_of_universes.md)
