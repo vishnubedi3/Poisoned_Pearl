@@ -4,7 +4,12 @@ This repository serves as the permanent storage system for the novel's lore, ide
 
 ## Repository Structure
 
-All repository material strictly separates **Source Material** (the exact, unaltered text provided by the author) from **Organizational Metadata** (relationships, classifications, and indexing).
+The repository is divided into two strict architectural domains:
+
+1. **The Repository Domain (`lore/`)**: The authoritative canon, structured worldbuilding, and narrative material.
+2. **The Author Notes System (`author_notes/`)**: An independent, author-controlled isolation boundary for notes, strictly governed by `AUTHOR_NOTES_SPEC.md`.
+
+All repository material inside the Lore Domain strictly separates **Source Material** (the exact, unaltered text provided by the author) from **Organizational Metadata** (relationships, classifications, and indexing).
 
 ### Index of Lore
 
